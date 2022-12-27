@@ -26,6 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayoweb3&show_icons=true&locale=en&layout=compact" alt="dayoweb3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dayoweb3&show_icons=true&locale=en" alt="dayoweb3" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayoweb3&" alt="dayoweb3" /></p>
